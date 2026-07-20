@@ -18,6 +18,22 @@ This repository contains my capstone project developed during the FlyRank.ai int
 - GitHub
 - Cursor AI
 
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (LTS recommended)
+- [Git](https://git-scm.com/)
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Raneen-Zahra/ai-capstone-project.git
+cd ai-capstone-project
+```
+
+Install, run, and test commands will be added here once the application code is initialized.
+
 ## Project Status
 
 🚧 Project setup in progress.
